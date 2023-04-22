@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "brand": "Buick",
+        "model": "LeSabre",
+        "year": 1998,
+        "color": "Khaki"
+    },
+    {
+        "id": 2,
+        "brand": "Mercury",
+        "model": "Sable",
+        "year": 1992,
+        "color": "Purple"
+    },
+    {
+        "id": 3,
+        "brand": "Ford",
+        "model": "Aerostar",
+        "year": 1995,
+        "color": "Khaki"
+    },
+    {
+        "id": 4,
+        "brand": "Mitsubishi",
+        "model": "Eclipse",
+        "year": 2003,
+        "color": "Blue"
+    },
+    {
+        "id": 5,
+        "brand": "Plymouth",
+        "model": "Voyager",
+        "year": 1999,
+        "color": "Goldenrod"
+    },
+    {
+        "id": 6,
+        "brand": "Pontiac",
+        "model": "Bonneville",
+        "year": 1990,
+        "color": "Green"
+    },
+    {
+        "id": 7,
+        "brand": "Chevrolet",
+        "model": "Silverado",
+        "year": 2009,
+        "color": "Pink"
+    },
+    {
+        "id": 8,
+        "brand": "Maserati",
+        "model": "Quattroporte",
+        "year": 2008,
+        "color": "Yellow"
+    },
+    {
+        "id": 9,
+        "brand": "Kia",
+        "model": "Sephia",
+        "year": 1995,
+        "color": "Indigo"
+    },
+    {
+        "id": 10,
+        "brand": "Subaru",
+        "model": "Outback",
+        "year": 2001,
+        "color": "Violet"
+    },
+    {
+        "id": 11,
+        "brand": "Suzuki",
+        "model": "XL-7",
+        "year": 2005,
+        "color": "Indigo"
+    },
+    {
+        "id": 12,
+        "brand": "Land Rover",
+        "model": "LR4",
+        "year": 2011,
+        "color": "Indigo"
+    },
+    {
+        "id": 13,
+        "brand": "Lamborghini",
+        "model": "Murciélago",
+        "year": 2010,
+        "color": "Khaki"
+    },
+    {
+        "id": 14,
+        "brand": "Mazda",
+        "model": "MPV",
+        "year": 1992,
+        "color": "Yellow"
+    },
+    {
+        "id": 15,
+        "brand": "Infiniti",
+        "model": "EX",
+        "year": 2012,
+        "color": "Goldenrod"
+    },
+    {
+        "id": 16,
+        "brand": "Mercury",
+        "model": "Topaz",
+        "year": 1985,
+        "color": "Teal"
+    },
+    {
+        "id": 17,
+        "brand": "Toyota",
+        "model": "4Runner",
+        "year": 2000,
+        "color": "Mauv"
+    },
+    {
+        "id": 18,
+        "brand": "Mercury",
+        "model": "Mountaineer",
+        "year": 1998,
+        "color": "Puce"
+    },
+    {
+        "id": 19,
+        "brand": "Subaru",
+        "model": "B9 Tribeca",
+        "year": 2007,
+        "color": "Goldenrod"
+    },
+    {
+        "id": 20,
+        "brand": "Infiniti",
+        "model": "Q",
+        "year": 1997,
+        "color": "Teal"
+    },
+    {
+        "id": 21,
+        "brand": "Ford",
+        "model": "F-Series",
+        "year": 1992,
+        "color": "Orange"
+    },
+    {
+        "id": 22,
+        "brand": "Mercedes-Benz",
+        "model": "CL-Class",
+        "year": 2005,
+        "color": "Mauv"
+    },
+    {
+        "id": 23,
+        "brand": "Subaru",
+        "model": "Impreza",
+        "year": 2011,
+        "color": "Pink"
+    },
+    {
+        "id": 24,
+        "brand": "Infiniti",
+        "model": "G",
+        "year": 1994,
+        "color": "Violet"
+    },
+    {
+        "id": 25,
+        "brand": "Cadillac",
+        "model": "Escalade EXT",
+        "year": 2003,
+        "color": "Orange"
+    },
+    {
+        "id": 26,
+        "brand": "Aston Martin",
+        "model": "V8 Vantage",
+        "year": 2012,
+        "color": "Blue"
+    },
+    {
+        "id": 27,
+        "brand": "Isuzu",
+        "model": "Ascender",
+        "year": 2003,
+        "color": "Crimson"
+    },
+    {
+        "id": 28,
+        "brand": "Ford",
+        "model": "Econoline E250",
+        "year": 2001,
+        "color": "Blue"
+    },
+    {
+        "id": 29,
+        "brand": "BMW",
+        "model": "5 Series",
+        "year": 2006,
+        "color": "Orange"
+    },
+    {
+        "id": 30,
+        "brand": "Ford",
+        "model": "Mustang",
+        "year": 1989,
+        "color": "Indigo"
+    },
+    {
+        "id": 31,
+        "brand": "Pontiac",
+        "model": "Grand Prix",
+        "year": 2005,
+        "color": "Puce"
+    },
+    {
+        "id": 32,
+        "brand": "Audi",
+        "model": "Q7",
+        "year": 2007,
+        "color": "Puce"
+    },
+    {
+        "id": 33,
+        "brand": "Pontiac",
+        "model": "Grand Prix",
+        "year": 2001,
+        "color": "Pink"
+    },
+    {
+        "id": 34,
+        "brand": "Lexus",
+        "model": "LX",
+        "year": 2007,
+        "color": "Violet"
+    },
+    {
+        "id": 35,
+        "brand": "Suzuki",
+        "model": "X-90",
+        "year": 1996,
+        "color": "Puce"
+    },
+    {
+        "id": 36,
+        "brand": "Honda",
+        "model": "Accord",
+        "year": 1983,
+        "color": "Blue"
+    },
+    {
+        "id": 37,
+        "brand": "Volvo",
+        "model": "S60",
+        "year": 2006,
+        "color": "Khaki"
+    },
+    {
+        "id": 38,
+        "brand": "Mitsubishi",
+        "model": "Montero",
+        "year": 2004,
+        "color": "Blue"
+    },
+    {
+        "id": 39,
+        "brand": "Acura",
+        "model": "TSX",
+        "year": 2011,
+        "color": "Indigo"
+    },
+    {
+        "id": 40,
+        "brand": "Ford",
+        "model": "Fairlane",
+        "year": 1967,
+        "color": "Green"
+    },
+    {
+        "id": 41,
+        "brand": "Maserati",
+        "model": "Biturbo",
+        "year": 1986,
+        "color": "Teal"
+    },
+    {
+        "id": 42,
+        "brand": "Volkswagen",
+        "model": "Golf",
+        "year": 1995,
+        "color": "Purple"
+    },
+    {
+        "id": 43,
+        "brand": "Toyota",
+        "model": "Tacoma",
+        "year": 2008,
+        "color": "Purple"
+    },
+    {
+        "id": 44,
+        "brand": "Honda",
+        "model": "Pilot",
+        "year": 2006,
+        "color": "Crimson"
+    },
+    {
+        "id": 45,
+        "brand": "Lexus",
+        "model": "LS",
+        "year": 1992,
+        "color": "Aquamarine"
+    },
+    {
+        "id": 46,
+        "brand": "Hyundai",
+        "model": "Tiburon",
+        "year": 2009,
+        "color": "Teal"
+    },
+    {
+        "id": 47,
+        "brand": "Audi",
+        "model": "5000S",
+        "year": 1986,
+        "color": "Maroon"
+    },
+    {
+        "id": 48,
+        "brand": "Pontiac",
+        "model": "Grand Am",
+        "year": 1991,
+        "color": "Maroon"
+    },
+    {
+        "id": 49,
+        "brand": "Dodge",
+        "model": "Challenger",
+        "year": 2012,
+        "color": "Red"
+    },
+    {
+        "id": 50,
+        "brand": "Ford",
+        "model": "Mustang",
+        "year": 1979,
+        "color": "Maroon"
+    },
+    {
+        "id": 51,
+        "brand": "Ford",
+        "model": "Focus",
+        "year": 2004,
+        "color": "Puce"
+    },
+    {
+        "id": 52,
+        "brand": "Honda",
+        "model": "Civic",
+        "year": 1991,
+        "color": "Pink"
+    },
+    {
+        "id": 53,
+        "brand": "Jeep",
+        "model": "Wrangler",
+        "year": 2004,
+        "color": "Khaki"
+    },
+    {
+        "id": 54,
+        "brand": "Audi",
+        "model": "Coupe GT",
+        "year": 1986,
+        "color": "Maroon"
+    },
+    {
+        "id": 55,
+        "brand": "Honda",
+        "model": "CR-V",
+        "year": 1999,
+        "color": "Maroon"
+    },
+    {
+        "id": 56,
+        "brand": "Chrysler",
+        "model": "Concorde",
+        "year": 2002,
+        "color": "Orange"
+    },
+    {
+        "id": 57,
+        "brand": "Kia",
+        "model": "Optima",
+        "year": 2003,
+        "color": "Yellow"
+    },
+    {
+        "id": 58,
+        "brand": "Nissan",
+        "model": "240SX",
+        "year": 1997,
+        "color": "Maroon"
+    },
+    {
+        "id": 59,
+        "brand": "Cadillac",
+        "model": "XLR",
+        "year": 2006,
+        "color": "Goldenrod"
+    },
+    {
+        "id": 60,
+        "brand": "Dodge",
+        "model": "D350 Club",
+        "year": 1993,
+        "color": "Puce"
+    },
+    {
+        "id": 61,
+        "brand": "Maybach",
+        "model": "Landaulet",
+        "year": 2009,
+        "color": "Fuscia"
+    },
+    {
+        "id": 62,
+        "brand": "Mercury",
+        "model": "Grand Marquis",
+        "year": 2006,
+        "color": "Yellow"
+    },
+    {
+        "id": 63,
+        "brand": "Audi",
+        "model": "A8",
+        "year": 2009,
+        "color": "Blue"
+    },
+    {
+        "id": 64,
+        "brand": "Ford",
+        "model": "Explorer Sport Trac",
+        "year": 2008,
+        "color": "Maroon"
+    },
+    {
+        "id": 65,
+        "brand": "Jaguar",
+        "model": "XF",
+        "year": 2012,
+        "color": "Mauv"
+    },
+    {
+        "id": 66,
+        "brand": "Toyota",
+        "model": "Camry",
+        "year": 2003,
+        "color": "Violet"
+    },
+    {
+        "id": 67,
+        "brand": "Chevrolet",
+        "model": "2500",
+        "year": 1995,
+        "color": "Green"
+    },
+    {
+        "id": 68,
+        "brand": "Isuzu",
+        "model": "Ascender",
+        "year": 2007,
+        "color": "Fuscia"
+    },
+    {
+        "id": 69,
+        "brand": "Volvo",
+        "model": "V50",
+        "year": 2010,
+        "color": "Pink"
+    },
+    {
+        "id": 70,
+        "brand": "Hyundai",
+        "model": "Sonata",
+        "year": 1993,
+        "color": "Puce"
+    },
+    {
+        "id": 71,
+        "brand": "GMC",
+        "model": "Canyon",
+        "year": 2007,
+        "color": "Indigo"
+    },
+    {
+        "id": 72,
+        "brand": "Aston Martin",
+        "model": "DB9",
+        "year": 2005,
+        "color": "Fuscia"
+    },
+    {
+        "id": 73,
+        "brand": "Eagle",
+        "model": "Talon",
+        "year": 1997,
+        "color": "Yellow"
+    },
+    {
+        "id": 74,
+        "brand": "BMW",
+        "model": "7 Series",
+        "year": 1996,
+        "color": "Fuscia"
+    },
+    {
+        "id": 75,
+        "brand": "Chevrolet",
+        "model": "Suburban",
+        "year": 2010,
+        "color": "Goldenrod"
+    },
+    {
+        "id": 76,
+        "brand": "Honda",
+        "model": "Civic",
+        "year": 1988,
+        "color": "Maroon"
+    },
+    {
+        "id": 77,
+        "brand": "Volkswagen",
+        "model": "rio",
+        "year": 1999,
+        "color": "Orange"
+    },
+    {
+        "id": 78,
+        "brand": "Dodge",
+        "model": "Dakota",
+        "year": 1996,
+        "color": "Khaki"
+    },
+    {
+        "id": 79,
+        "brand": "Mitsubishi",
+        "model": "Galant",
+        "year": 2000,
+        "color": "Indigo"
+    },
+    {
+        "id": 80,
+        "brand": "GMC",
+        "model": "Yukon XL",
+        "year": 2006,
+        "color": "Green"
+    },
+    {
+        "id": 81,
+        "brand": "Porsche",
+        "model": "944",
+        "year": 1991,
+        "color": "Violet"
+    },
+    {
+        "id": 82,
+        "brand": "Pontiac",
+        "model": "Bonneville",
+        "year": 1984,
+        "color": "Indigo"
+    },
+    {
+        "id": 83,
+        "brand": "Scion",
+        "model": "iQ",
+        "year": 2012,
+        "color": "Purple"
+    },
+    {
+        "id": 84,
+        "brand": "Saab",
+        "model": "9000",
+        "year": 1995,
+        "color": "Puce"
+    },
+    {
+        "id": 85,
+        "brand": "Nissan",
+        "model": "Sentra",
+        "year": 1996,
+        "color": "Turquoise"
+    },
+    {
+        "id": 86,
+        "brand": "Jaguar",
+        "model": "XJ Series",
+        "year": 1996,
+        "color": "Red"
+    },
+    {
+        "id": 87,
+        "brand": "Toyota",
+        "model": "TundraMax",
+        "year": 2011,
+        "color": "Aquamarine"
+    },
+    {
+        "id": 88,
+        "brand": "Pontiac",
+        "model": "Firebird",
+        "year": 2001,
+        "color": "Indigo"
+    },
+    {
+        "id": 89,
+        "brand": "Suzuki",
+        "model": "Grand Vitara",
+        "year": 2010,
+        "color": "Pink"
+    },
+    {
+        "id": 90,
+        "brand": "Toyota",
+        "model": "Supra",
+        "year": 1997,
+        "color": "Crimson"
+    },
+    {
+        "id": 91,
+        "brand": "Porsche",
+        "model": "Boxster",
+        "year": 2006,
+        "color": "Yellow"
+    },
+    {
+        "id": 92,
+        "brand": "Ford",
+        "model": "LTD Crown Victoria",
+        "year": 1985,
+        "color": "Crimson"
+    },
+    {
+        "id": 93,
+        "brand": "Jaguar",
+        "model": "XF",
+        "year": 2011,
+        "color": "Violet"
+    },
+    {
+        "id": 94,
+        "brand": "Subaru",
+        "model": "Legacy",
+        "year": 1990,
+        "color": "Khaki"
+    },
+    {
+        "id": 95,
+        "brand": "GMC",
+        "model": "Rally Wagon 2500",
+        "year": 1992,
+        "color": "Fuscia"
+    },
+    {
+        "id": 96,
+        "brand": "Subaru",
+        "model": "Legacy",
+        "year": 2010,
+        "color": "Red"
+    },
+    {
+        "id": 97,
+        "brand": "Nissan",
+        "model": "Pathfinder Armada",
+        "year": 2004,
+        "color": "Yellow"
+    },
+    {
+        "id": 98,
+        "brand": "Mazda",
+        "model": "B2000",
+        "year": 1985,
+        "color": "Maroon"
+    },
+    {
+        "id": 99,
+        "brand": "Chevrolet",
+        "model": "Express 1500",
+        "year": 2007,
+        "color": "Blue"
+    },
+    {
+        "id": 100,
+        "brand": "Mercedes-Benz",
+        "model": "Sprinter 3500",
+        "year": 2011,
+        "color": "Fuscia"
+    }
+]
