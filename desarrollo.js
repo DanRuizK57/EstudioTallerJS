@@ -4,17 +4,15 @@ const autos = require('./cars.json');
 //Esta variable se instancia aquí para que el método obtenerStrings() pueda obtener esta variable
 let autosMayor2010 = autos.filter(autoMayor2010 => autoMayor2010.year > 2010);
 
-//Imprime la información de autos con el año mayor a 2010
+//Imprime la información de la cantidad de autos con el año mayor a 2010
 function obtenerAutosMayor2010() {
-    console.log("Autos de año 2010 en adelante: " + "\n");
-    console.log(autosMayor2010);
+    console.log("Autos de año 2010 en adelante: " + autosMayor2010.length);
 }
 
-//Obtiene solamente los autos de color rojo mediente un filtro y los muestra
+//Obtiene solamente la cantidad de autos de color rojo mediente un filtro y los muestra
 function obtenerAutosRojos() {
     const autosRojos = autos.filter(autoRojo => autoRojo.color === "Red");
-    console.log("Autos de color rojo: " + "\n");
-    console.log(autosRojos);
+    console.log("Autos de color rojo: " + autosRojos.length);
 }
 
 //Muestra los autos con año mayor a 2010 convirtiendo los objetos a string con el formato (BRAND - MODEL YEAR)
